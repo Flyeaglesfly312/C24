@@ -1,2 +1,2 @@
-# C24
-Creating a house with boxes for the pig and also creating the bird and out with classes.
+# p5.play-boilerplate
+Boiler plate for p5.play
